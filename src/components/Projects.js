@@ -124,7 +124,7 @@ export const Projects = () => {
       title: "Сертиф QR",
       description: "",
       imgUrl: projImg17,
-      siteUrl: 'https://instagram.com/qazaq.republic?igshid=NGVhN2U2NjQ0Yg==',
+      siteUrl: 'hhttps://instagram.com/qazaq.republic?igshid=NGVhN2U2NjQ0Yg==',
     }, 
   ];
 
