@@ -17,8 +17,8 @@ import projImg14 from "../assets/img/IMG_5269.PNG";
 import projImg15 from "../assets/img/IMG_5261.JPG";
 import projImg16 from "../assets/img/IMG_5264.JPG";
 import projImg17 from "../assets/img/IMG_5270.PNG";
-import projImg18 from "../assets/img/IMG_5272.JPG";
-import projImg19 from "../assets/img/IMG_5275.JPEG";
+import projImg18 from "../assets/img/IMG_5277.JPG";
+import projImg19 from "../assets/img/IMG_5276.JPEG";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -137,7 +137,7 @@ export const Projects = () => {
     {
       title: "Мышка Type-C",
       description: "",
-      imgUrl: projImg18,
+      imgUrl: projImg19,
       siteUrl: 'https://kaspi.kz/shop/c/mice/',
     }, 
   ];
