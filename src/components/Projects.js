@@ -17,6 +17,8 @@ import projImg14 from "../assets/img/IMG_5269.PNG";
 import projImg15 from "../assets/img/IMG_5261.JPG";
 import projImg16 from "../assets/img/IMG_5264.JPG";
 import projImg17 from "../assets/img/IMG_5270.PNG";
+import projImg18 from "../assets/img/IMG_5272.JPG";
+import projImg19 from "../assets/img/IMG_5275.JPEG";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -34,19 +36,19 @@ export const Projects = () => {
       title: "Конная прогулка",
       description: "",
       imgUrl: projImg2,
-      siteUrl: "https://dream-moments.kz",
+      siteUrl: "https://instagram.com/koni_luk?igshid=NGVhN2U2NjQ0Yg==",
     },
     {
       title: "Стрельба из лука",
       description: "",
       imgUrl: projImg3,
-      siteUrl: 'https://dream-moments.kz',
+      siteUrl: 'https://instagram.com/erzhurek.archery?igshid=NGVhN2U2NjQ0Yg==',
     },
     {
       title: "Стрельба из ружья",
       description: "",
       imgUrl: projImg4,
-      siteUrl: 'https://dream-moments.kz',
+      siteUrl: 'https://instagram.com/akzhar_strelkovyi_tir_almaty?igshid=NGVhN2U2NjQ0Yg==',
     },
     {
       title: "Экскурсия по обсерватории",
@@ -121,10 +123,22 @@ export const Projects = () => {
       siteUrl: 'https://www.decathlonkz.com',
     }, 
     {
+      title: "Power bank Type-C",
+      description: "",
+      imgUrl: projImg18,
+      siteUrl: 'https://kaspi.kz/shop/c/power%20banks/',
+    }, 
+    {
       title: "Сертиф QR",
       description: "",
       imgUrl: projImg17,
-      siteUrl: 'hhttps://instagram.com/qazaq.republic?igshid=NGVhN2U2NjQ0Yg==',
+      siteUrl: 'https://instagram.com/qazaq.republic?igshid=NGVhN2U2NjQ0Yg==',
+    }, 
+    {
+      title: "Мышка Type-C",
+      description: "",
+      imgUrl: projImg18,
+      siteUrl: 'https://kaspi.kz/shop/c/mice/',
     }, 
   ];
 
