@@ -17,7 +17,7 @@ import projImg14 from "../assets/img/IMG_5269.PNG";
 import projImg15 from "../assets/img/IMG_5261.JPG";
 import projImg16 from "../assets/img/IMG_5264.JPG";
 import projImg17 from "../assets/img/IMG_5270.PNG";
-import projImg18 from "../assets/img/IMG_5277.JPG";
+import projImg18 from "../assets/img/IMG_5277.JPEG";
 import projImg19 from "../assets/img/IMG_5276.JPEG";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
